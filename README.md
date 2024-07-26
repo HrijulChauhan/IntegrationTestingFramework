@@ -5,7 +5,8 @@ The traditional and most popular form of testing remains to be unit testing. Uni
 However, with complex systems, numerous microservices, and multiple business logic flows, we need a way to test as a whole. One approach can be integration testing, allowing us to incorporate entire use cases and flows together, programmatically.
 
 **Perquisites** <br>
-Any spring-boot java application, with `JUnit` and `spring-boot-starter-test` added as a dependency.
+Any spring-boot java application, with `JUnit` and `spring-boot-starter-test` added as a dependency. <br>
+Java 17 <br>
 #### Framework
 Our framework consists of 4 main phases :
 - Generation 
